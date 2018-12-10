@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # my-first-vue
 Applying all tutorials to my first vue project
-
-my_first_vue
 
 ### Project setup
 ```
